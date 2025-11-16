@@ -1,6 +1,6 @@
 local changelog = {}
 changelog.main = [[
-"Testing
+Testing
 LOREM IPSUM ON THE TOP
-"]]
+]]
 return changelog
