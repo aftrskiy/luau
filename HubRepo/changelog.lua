@@ -1,6 +1,9 @@
 local changelog = {}
 changelog.main = [[
-Testing
-LOREM IPSUM ON THE TOP
+v1.1 PRIVATE BETA
+What added:
+[+] More scripts
+[+] Changelog GUI
+[+] Some fixes...
 ]]
 return changelog
