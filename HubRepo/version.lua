@@ -1,3 +1,3 @@
 local version = {}
-version.main = "1.0"
+version.main = "1.1 PRIVATE BETA"
 return version
